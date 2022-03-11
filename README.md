@@ -1,6 +1,4 @@
-# application
-
-A new Flutter project.
+# Gallery
 
 ## Getting Started
 
